@@ -1,0 +1,7 @@
+name: DaViLib
+version: '${project.version}'
+main: com.danikvitek.davilib.DaViLib
+api-version: 1.16
+prefix: DaViLib
+authors: [ Danik_Vitek ]
+description: Utility plugin that serves as a library for Danik_Vitek's plugins
